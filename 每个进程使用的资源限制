@@ -2,7 +2,7 @@ Limit                     Soft Limit           Hard Limit           Units
 Max cpu time              unlimited            unlimited            seconds   
 Max file size             unlimited            unlimited            bytes     
 Max data size             unlimited            unlimited            bytes     
-Max stack size            8388608              unlimited            bytes     
+Max stack size            8388608              unlimited            bytes       8MB    
 Max core file size        0                    unlimited            bytes     
 Max resident set          unlimited            unlimited            bytes     
 Max processes             257442               257442               processes 
